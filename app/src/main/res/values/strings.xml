@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Workout</string>
+    <string name="log_in">Log In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="terms_and_conditions">I agree to the terms and conditions</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="password_again">Password Again</string>
+    <string name="sign_up_here_message">Don\'t have account? Sign Up</string>
+    <string name="login_here_message">Already have an account? Login here</string>
+    <string name="add_new_workout">Add new workout</string>
+    <string name="workout_name"> Workout name</string>
+    <string name="burned_calories">Burned calories</string>
+    <string name="date_of_workout">Date of workout</string>
+    <string name="duration_of_workout">Duration of workout (in minutes)</string>
+    <string name="picture_of_workout">Picture of workout (optional)</string>
+    <string name="take_picture">To take picture tap here</string>
+    <string name="choose_picture">To choose from the gallery tap here</string>
+    <string name="complete_all_the_fields">Please complete  all the fields</string>
+    <string name="successful_saved">Successful saved</string>
+    <string name="save_failed">Save failed</string>
+    <string name="login_failed">Login failed</string>
+    <string name="incorrect_password">Incorrect password</string>
+    <string name="successfully_registered">Successfully registered</string>
+    <string name="registration_failed">Registration failed</string>
+    <string name="logout">Logout</string>
+    <string name="uploading">Uploading…</string>
+    <string name="forgot_password">Forgot your password?</string>
+    <string name="write_email_address">Write your email address here, and you get a reset link in email.</string>
+</resources>
